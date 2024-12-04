@@ -27,8 +27,8 @@ class config():
 
 config=config()
 
-print(config.operation_array)
-print(config.column_annonce,config.column_annonce_equipement,config.column_equipement,config.column_ville)
+#print(config.operation_array)
+#print(config.column_annonce,config.column_annonce_equipement,config.column_equipement,config.column_ville)
 
 
     

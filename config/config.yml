@@ -1,0 +1,19 @@
+COLUMN_DATAFRAMAE : 
+  annonce : 
+    - id
+    - price
+    - title 
+    - date time
+    - nb rooms
+    - nb baths
+    - surface area
+    - city id
+  equipement : ['id equipement','equipement']
+  annonce_equipement : ['annonce id','equipement id']
+  ville : ['id ville','ville']
+  operation array : ['price','nb rooms','nb baths','surface area']
+
+  
+  
+
+
